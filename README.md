@@ -23,6 +23,7 @@ Average Case and Worst Case : O(N^2)
 Best Case: O(n)
 
 
+
 Big-O gösterimini yazınız.
 
 O(n^2)
