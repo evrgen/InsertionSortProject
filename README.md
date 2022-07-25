@@ -18,7 +18,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
-Average Case and Worst Case : O(N^2)
+Average Case and Worst Case : O(n^2)
 
 Best Case: O(n)
 
